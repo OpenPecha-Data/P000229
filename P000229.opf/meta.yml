@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: གསང་བདག་ཞལ་ལུང།
+  authors:
+  - མཛད་པ་པོ། ལོ་ཆེན་དྷརྨ་ཤྲཱི།
+  sku: SHE-011-2-1
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: The Words of the Lord of Secrets Vol 2
+    bo: གསང་བདག་ཞལ་ལུང་། སྨད་ཆ།
+  collection:
+    en: Shechen Tantra Series–  Book 11-2
+    bo: ''
+  author:
+    en: Lochen Dharmashri
+    bo: ''
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-011-2-1
+  category:
+    en: Uncategorized
+    bo: Uncategorized @tib
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-011-2-1.epub
+  description:
+    en: ''
+    bo: ''
