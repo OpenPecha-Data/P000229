@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000229
+initial_creation_type: ebook
+source_metadata:
   title: གསང་བདག་ཞལ་ལུང།
   authors:
   - མཛད་པ་པོ། ལོ་ཆེན་དྷརྨ་ཤྲཱི།
-  sku: SHE-011-2-1
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - sabche
+  id: SHE-011-2-1
 web_metadata:
   title:
     en: The Words of the Lord of Secrets Vol 2
